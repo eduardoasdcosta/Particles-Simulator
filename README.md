@@ -1,2 +1,2 @@
 # Particles-Simulator
-Computação Paralela e Distribuída - Projeto
+Parallel and Distributed Computing - Project
